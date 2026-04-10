@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "updated": "2026-04-08T14:00:00Z",
-  "minAppVersion": "1.0.0",
+  "minAppVersion": "0.0.0",
   "patterns": {
     "dairy": [
       "alfredo", "anthotyro", "appenzeller", "asiago", "ayran",
